@@ -1,0 +1,2 @@
+Archivo2 para nuevo comando
+Trabajando en la rama B
